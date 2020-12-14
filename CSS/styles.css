@@ -18,12 +18,12 @@ body {
 
 .keycode {
     font-family: 'Roboto', sans-serif;
-    font-size: 10rem;
+    font-size: 11rem;
     margin-top: 200px;
     margin-bottom: 100px;
 }
 
 .key {
     font-family: 'Roboto', sans-serif;
-    font-size: large;
+    font-size: 2rem;
 }
